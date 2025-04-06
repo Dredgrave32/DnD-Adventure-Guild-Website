@@ -1,8 +1,13 @@
 body {
-    margin: 20px;
+    margin: 50px;
     background-image: url(../images/parchment_paper_texture.jpg);
 }
 
 h1 , h2 {
     font-family:  Arial;
+}
+
+.book-border {
+    border-color: black;
+    margin:  40px;
 }
