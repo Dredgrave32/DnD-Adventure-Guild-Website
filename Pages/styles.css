@@ -9,5 +9,6 @@ h1 , h2 {
 
 .book-border {
     border-color: black;
+    border-width: 1cm;
     margin:  40px;
 }
