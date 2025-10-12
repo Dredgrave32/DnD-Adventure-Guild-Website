@@ -14,7 +14,7 @@ h1 , h2 {
     margin:  40px;
 }
 
-h2 > p::first-letter {
+#echoSat {
     font-size: 200%;
     font-family: fantasy;
 }
