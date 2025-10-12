@@ -13,3 +13,8 @@ h1 , h2 {
     border-width: .50cm;
     margin:  40px;
 }
+
+h2 > p::first-letter {
+    font-size: 200%;
+    font-family: fantasy;
+}
